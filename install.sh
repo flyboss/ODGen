@@ -4,6 +4,7 @@ npm install \
     @babel/cli \
     @babel/preset-env \
     @babel/preset-typescript \
+    @babel/plugin-proposal-class-properties \
     mocha;
 python3 -m pip install -r ./requirements.txt;
 
